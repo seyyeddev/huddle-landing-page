@@ -7,7 +7,7 @@
 @media only screen and (min-width: 768px) {
 
     body {
-        background: var(--violet) url(/images/bg-desktop.svg);
+        background: var(--violet) url(../images/bg-desktop.svg);
     }
 
     /**************** main **************/

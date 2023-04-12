@@ -1,6 +1,6 @@
 body {
     min-height: 100vh;
-    background: var(--violet) url(/images/bg-mobile.svg) no-repeat;
+    background: var(--violet) url(../images/bg-mobile.svg) no-repeat;
     padding: 1.875px;
 }
 
